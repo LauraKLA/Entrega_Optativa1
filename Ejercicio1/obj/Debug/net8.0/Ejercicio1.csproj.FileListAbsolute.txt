@@ -1,0 +1,15 @@
+C:\proj\Optativa\Ejercicio1\bin\Debug\net8.0\Ejercicio1.exe
+C:\proj\Optativa\Ejercicio1\bin\Debug\net8.0\Ejercicio1.deps.json
+C:\proj\Optativa\Ejercicio1\bin\Debug\net8.0\Ejercicio1.runtimeconfig.json
+C:\proj\Optativa\Ejercicio1\bin\Debug\net8.0\Ejercicio1.dll
+C:\proj\Optativa\Ejercicio1\bin\Debug\net8.0\Ejercicio1.pdb
+C:\proj\Optativa\Ejercicio1\obj\Debug\net8.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\proj\Optativa\Ejercicio1\obj\Debug\net8.0\Ejercicio1.AssemblyInfoInputs.cache
+C:\proj\Optativa\Ejercicio1\obj\Debug\net8.0\Ejercicio1.AssemblyInfo.cs
+C:\proj\Optativa\Ejercicio1\obj\Debug\net8.0\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\proj\Optativa\Ejercicio1\obj\Debug\net8.0\Ejercicio1.sourcelink.json
+C:\proj\Optativa\Ejercicio1\obj\Debug\net8.0\Ejercicio1.dll
+C:\proj\Optativa\Ejercicio1\obj\Debug\net8.0\refint\Ejercicio1.dll
+C:\proj\Optativa\Ejercicio1\obj\Debug\net8.0\Ejercicio1.pdb
+C:\proj\Optativa\Ejercicio1\obj\Debug\net8.0\Ejercicio1.genruntimeconfig.cache
+C:\proj\Optativa\Ejercicio1\obj\Debug\net8.0\ref\Ejercicio1.dll
